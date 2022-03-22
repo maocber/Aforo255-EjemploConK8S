@@ -1,1 +1,1 @@
-docknet test
+dotnet test
