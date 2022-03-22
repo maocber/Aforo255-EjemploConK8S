@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travis-net5-maocber",
+  "private_key_id": "cd1b56f623b7e8a10ac275db06b669e6cadf485b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCV7CK9W7M0CUSe\nemZJRHWqMymabUIiWp8zLezqA5jthNyiaziC9YkIDk2Jh6jP3N7XLZaFgdOEwmZX\naFQsjkvtuxwwwvPIw8kkWvwGD30MLeYxdI8RGlhKXzgJ3xj0O8ka37cp3ja2kd6l\nms1oefJm1qQ5n8rYJ7cwgMGXDviuWQfHqe/u8MuYSVSlsbpPn9ULHw+bwX4NTopR\nm8KC9Ruy9AjHA5Ub3o0oMDvC53OhpUVtQ93nHpKtzsxWz0bjowosbdE73a8y3yO6\nvOf2AiFEg3i49D/I1M3uEd8E1XD91LzsxSXsozkZzx+d+OCH2xB9MNBbwsJkMdCg\nLSk5aftlAgMBAAECggEAE6GLfPsUcJRkGVJSsXZW5/XyFSgIWGJAZV22n3/gFv3m\nPBhJGpDXJChnS8JpPuqffVKZWpsA3Ontp7VgDEOHurXc/5+Pd3L3lByb0plVmPIr\nqb8m+qjV9csZFeXSKSzo7O1tWPyhcm+QVWP7UJpjPMcPUwJS99HfgWjisIqD0qRf\nbSt/LhE+F/GIo3GJS2phLrVoizoNVBE7FS6cyll+TfF+yyWA9E1sTdzTDt/1OR3s\nerRno10xUkTdGZNOlIe45Ix3ZxEV9MD2hpaETlZyC0F+RgAQx8ZwQrRqC8oBq+Xu\nm94XEswf9xIggM9jhYGIyPqfRQkmgbLbL+4Fs0dpcQKBgQDNUklmPlSsTXehYN/w\nL8veUHFWLywBC2kSXlwLPgaJr+7EWZRTO0MoNtyrmsbE+iZsfSrjJhhvDUwITr7C\nxlkl+MlMq2amFOP3VqRmWRuefsU0da8YsdhujhqbAX82XqyU3fJ3ubFZ6qBgKuO6\nCQIWlpNdAnRnh1hBtfFuWR0vuQKBgQC67VUSc3UVME9ZPNlniENlmITJraijeMI3\n0Jf5OmSUYqMKJa5COele98QmZdGnxp7S8+ti9nUbdEt6DQjFJvXA7sQBrVejHNmW\n7t8CT5HDQytM4mHAujP2c+sDJy2OBNHl7VxijKR+5Z13NtNzhhwiJK63NghWwBx1\nhQ2bPuSHDQKBgQCISN9Zk3QGrqECqFfciQ1Mcp7YMxWFV/qVa7ay66fRSss037T5\njjOkhM3yxhi79ML+bhLCla3QQMZAGWy7woa4EqwjTP4krWcn7QXQvcL8cG8bxCXG\nQX5E2+RDETpMb4kkgzIHUGWtJnTvgGiKOqJ9NdN5AEEd2xO1AjzQHyylWQKBgGLU\nfHgm5y5uvmU2ENP2bXvXqc1frZvQiw8rkE5LG0aA6CbDSWDmcYauhNywVKraDrsG\nD9vg5oW/dPBw18Q1FxYMp0EjvwQUis6MOQhlvXF5n/kkb/6P9E1HeGfQXPuLfNaO\nKpxIM+iLyjdvm1im/VToBCAFx17mb6WK1WjRVc45AoGAXuEce4H4t4nDSz6P2KqZ\nOAg/PvIXYKzugkUwu2T0hFCLyA6jFQrnRUrr1wVXDZD1Ah4lMzaK82MGGNnI8lXs\n6aNudCknbmGkW+lFO6JTHv4viT4s3FN+A/i5j5NSLc7cRdnMg3WQ6a3yIqZsDKeE\nD6AMGZYCq1QrPaVoH07Na1M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sac-afororo255-mao@travis-net5-maocber.iam.gserviceaccount.com",
+  "client_id": "114515067739569966268",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sac-afororo255-mao%40travis-net5-maocber.iam.gserviceaccount.com"
+}
